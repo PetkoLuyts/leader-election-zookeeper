@@ -25,7 +25,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>LeaderElection</mainClass>
+                            <mainClass>cluster.management.LeaderElection</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
