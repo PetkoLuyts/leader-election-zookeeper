@@ -1,4 +1,4 @@
-# leader-election-zookeeper
+# zookeeper-java-api
 Implementation of a popular, useful and important algorithm in **Distributed Systems**.
 ***
 - **Fault Tolerant Implementation** - any number of nodes can fail, and the cluster stays functional
